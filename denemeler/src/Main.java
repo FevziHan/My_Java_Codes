@@ -8,7 +8,7 @@ public class Main {
         int i;
         boolean isPrime = true;
         if (number < 2) {
-            System.out.println("Invalid Number");
+            System.out.println("Invalid Number.");
         }
             else {
 
